@@ -1,0 +1,2 @@
+# Dependencias para el script de actualización de JSON
+requests>=2.31.0
